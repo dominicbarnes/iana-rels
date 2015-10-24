@@ -1,4 +1,9 @@
 
+0.1.0 / 2015-10-23
+==================
+
+  * export properties with hyphens for better compatibility downstream
+
 0.0.2 / 2015-08-16
 ==================
 
